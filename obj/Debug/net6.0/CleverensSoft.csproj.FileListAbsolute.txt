@@ -1,0 +1,15 @@
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/bin/Debug/net6.0/CleverensSoft
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/bin/Debug/net6.0/CleverensSoft.deps.json
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/bin/Debug/net6.0/CleverensSoft.runtimeconfig.json
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/bin/Debug/net6.0/CleverensSoft.dll
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/bin/Debug/net6.0/CleverensSoft.pdb
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/obj/Debug/net6.0/CleverensSoft.csproj.AssemblyReference.cache
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/obj/Debug/net6.0/CleverensSoft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/obj/Debug/net6.0/CleverensSoft.AssemblyInfoInputs.cache
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/obj/Debug/net6.0/CleverensSoft.AssemblyInfo.cs
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/obj/Debug/net6.0/CleverensSoft.csproj.CoreCompileInputs.cache
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/obj/Debug/net6.0/CleverensSoft.dll
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/obj/Debug/net6.0/refint/CleverensSoft.dll
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/obj/Debug/net6.0/CleverensSoft.pdb
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/obj/Debug/net6.0/CleverensSoft.genruntimeconfig.cache
+/Users/azazellooy/Projects/CleverensSoft/CleverensSoft/obj/Debug/net6.0/ref/CleverensSoft.dll
