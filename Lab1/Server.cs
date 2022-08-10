@@ -16,7 +16,6 @@ namespace CleverensSoft.Lab1
             finally
             {
                 _readerWriterLockSlim.ExitReadLock();
-                Console.WriteLine("читатель дочитал");
             }
            
         }
@@ -31,7 +30,6 @@ namespace CleverensSoft.Lab1
             finally
             {
                 _readerWriterLockSlim.ExitWriteLock();
-                Console.WriteLine("писатель дописал");
             }
         }
     }
